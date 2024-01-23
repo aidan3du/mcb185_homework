@@ -1,0 +1,14 @@
+Mon Jan 22 16:09:51 PST 2024
+aidandu
+/Users/aidandu
+/bin/bash
+/Users/aidandu/Code/mcb185_homework
+/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/X11/bin
+Darwin aidan3du.local 23.2.0 Darwin Kernel Version 23.2.0: Wed Nov 15 21:54:10 PST 2023; root:xnu-10002.61.3~2/RELEASE_X86_64 x86_64
+Python 3.8.2
+/Users/aidandu/Code
+/Users/aidandu/Code/mcb185_homework
+/Users/aidandu/Code/mcb185_homework/.git
+/Users/aidandu/Code/MCB185
+/Users/aidandu/Code/MCB185/.git
+/Users/aidandu/Code/MCB185/data
