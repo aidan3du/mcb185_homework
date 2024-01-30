@@ -2,16 +2,16 @@
 import math
 
 def quadratic(a, b, c):
-    discriminant = (b**2) - (4*a*c)
-    sqrt_discriminant = math.sqrt(abs(discriminant))
+	discriminant = (b**2) - (4*a*c)
+	sqrt_discriminant = math.sqrt(abs(discriminant))
 
-    if discriminant > 0:
-        return ((-b + sqrt_discriminant)/(2 * a)), ((-b - sqrt_discriminant)/(2 * a))
-    elif discriminant == 0: 
-        return (-b / (2 * a)), (-b / (2 * a))
-    else:
-        print("Complex root, cannot return values")
-        
+	if discriminant > 0:
+		return ((-b + sqrt_discriminant)/(2 * a)), ((-b - sqrt_discriminant)/(2 * a))
+	elif discriminant == 0: 
+		return (-b / (2 * a)), (-b / (2 * a))
+	else:
+		print("Complex root, cannot return values")
+		
 print("a = 6, b = -11, c = -30")
 print(quadratic(6, -11, -30))
 
