@@ -1,4 +1,3 @@
-# Authors: Aidan, Mo
 
 ## 45dndstats ##
 | Roll  |    Averages       |
@@ -11,7 +10,14 @@
 
 ## 46savingthrows ##
 | DC  | Normal |	Advantage |	Disadvantage |
+|-----|--------|--------------|--------------|
 |5	  | 0.799  |	0.960     |    0.640     |
 |10	  | 0.550  | 	0.796	  |	   0.305     |
 |15	  | 0.300  |	0.509     |	   0.091     |
 
+
+## 47deathsaves ##
+
+* deaths: average 0.404283
+* stable: average 0.413606
+* revived: average 0.182111
