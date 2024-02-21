@@ -8,7 +8,6 @@ days = int(sys.argv[2])
 people = int(sys.argv[3])
 
 dup = 0
-probability = 0
 bdays = []
 
 for i in range(days):
